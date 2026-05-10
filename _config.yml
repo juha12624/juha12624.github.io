@@ -23,7 +23,7 @@ repository               : "juha12624.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "박주하 (Juha Park)"
   pronouns         : # example: "she/her"  
   bio              : "Wireless Communication Research Engineer"
